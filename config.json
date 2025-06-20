@@ -26,11 +26,6 @@
         "website-id": 1,
         "website-name": "Main Website",
         "environment-id": "8kcDPMbL5yv7YccmZcoqaH"
-      },
-      "plugins": {
-        "picker": {
-           "rootCategory": "2"
-         }
       }
     }
   }
