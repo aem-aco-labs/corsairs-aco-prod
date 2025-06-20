@@ -1,19 +1,18 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://www.aemshop.net/graphql",
-      "commerce-endpoint": "https://www.aemshop.net/cs-graphql",
+      "commerce-core-endpoint": "https://na1.api.commerce.adobe.com/8kcDPMbL5yv7YccmZcoqaH/graphql",
+      "commerce-endpoint": "https://na1.api.commerce.adobe.com/8kcDPMbL5yv7YccmZcoqaH/graphql",
       "headers": {
         "all": {
           "Store": "default"
         },
         "cs": {
-          "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
-          "Magento-Store-Code": "main_website_store",
-          "Magento-Store-View-Code": "default",
-          "Magento-Website-Code": "base",
-          "x-api-key": "4dfa19c9fe6f4cccade55cc5b3da94f7",
-          "Magento-Environment-Id": "f38a0de0-764b-41fa-bd2c-5bc2f3c7b39a"
+          "ac-channel-id": "cce696c4-b80b-4785-8f19-68a623dbc510",
+          "ac-environment-id": "8kcDPMbL5yv7YccmZcoqaH",
+          "ac-price-book-id": "global_visibility",
+          "ac-scope-locale": "en-US",
+          "Magento-Environment-Id": "8kcDPMbL5yv7YccmZcoqaH"
         }
       },
       "analytics": {
@@ -21,11 +20,12 @@
         "environment": "Production",
         "store-id": 1,
         "store-name": "Main Website Store",
-        "store-url": "https://www.aemshop.net",
+        "store-url": "https://main--corsairs-aco-prod--aem-aco-labs.aem.live",
         "store-view-id": 1,
-        "store-view-name": "Default Store View",
+        "store-view-name": "General",
         "website-id": 1,
-        "website-name": "Main Website"
+        "website-name": "Main Website",
+        "environment-id": "8kcDPMbL5yv7YccmZcoqaH"
       },
       "plugins": {
         "picker": {
